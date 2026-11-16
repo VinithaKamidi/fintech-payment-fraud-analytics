@@ -1,0 +1,7 @@
+merchant_category,total_txns,total_gmv_inr,fraud_txns,fraud_loss_inr,avg_risk_score,fraud_rate_pct
+Jewelry & Luxury,434,2956254.68,60,385799.61,38.9,13.82
+Digital Goods & Gaming,833,1930723.93,111,215666.58,38.5,13.33
+Electronics & Gadgets,854,5976969.77,102,1092607.4,37.4,11.94
+Utilities & Bills,912,2010009.8,73,194412.24,28.6,8.0
+Travel & Ticketing,778,5284409.87,59,517920.84,28.4,7.58
+Grocery & Essentials,1189,2951815.23,88,229669.84,28.6,7.4
